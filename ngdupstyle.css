@@ -1,0 +1,8 @@
+.listrow:hover {
+	background-color:#eeeecc;
+	font-weight:bold;
+}
+
+.npdtable {
+	width:100%;
+}
